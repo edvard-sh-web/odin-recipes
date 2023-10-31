@@ -1,0 +1,27 @@
+* {
+    font-family: Arial, Helvetica, sans-serif ;
+}
+body {
+    margin: auto;
+    text-align: center;
+    width: 800px;
+}
+
+.recipe-list {
+    margin: 0 280px;
+    text-align: justify;
+}
+
+a{
+    text-decoration: none;
+}
+    
+.ingr-list,
+.step-list {
+    text-align: justify;
+}
+
+img {
+    width: 700px;
+    height: auto;
+}
